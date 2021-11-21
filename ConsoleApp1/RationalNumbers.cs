@@ -111,5 +111,5 @@ namespace ConsoleApp1
 
             return new RationalNumbers((number1.numerator * number2.denominator) % (number1.denominator * number2.numerator), 1);
         }
-    }
+    }//1
 }

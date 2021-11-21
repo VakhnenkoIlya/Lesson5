@@ -33,6 +33,6 @@ namespace ConsoleApp1
             Console.WriteLine(number4 - number5);
             Console.WriteLine(number4 == number5);
             Console.WriteLine(number4 != number5);
-        }
+        }//1
     }
 }
